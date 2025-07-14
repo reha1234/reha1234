@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚀 Learning to become a fullstack developer | HTML • CSS • JavaScript • Node.js
+
 💻 Currently building small web projects to sharpen my skills
