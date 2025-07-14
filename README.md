@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Mahmuda Areha
+
 
 <!--
 **reha1234/reha1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 Learning to become a fullstack developer | HTML • CSS • JavaScript • Node.js
+💻 Currently building small web projects to sharpen my skills
