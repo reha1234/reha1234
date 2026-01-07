@@ -4,19 +4,20 @@
 🎓 Computer Engineering — Universitas Andalas (2018–2024)  
 🧠 System-first thinker | Product-aware | Logic-driven
 
-I build **real-world web systems** — not just features.  
+I build **real-world web & application systems** — not just features.  
 My focus is on **clean architecture, clear data flow, and systems that prevent problems by design**.
 
 ---
 
 ### 🧠 What I’m Focused On Now
-- 🏗️ Designing **system-based web applications**
+- 🏗️ Designing **system-based web & app applications**
 - 📊 Strengthening **backend logic, data modeling, and state flow**
-- 🤖 Exploring **AI-assisted systems & planners** (not hype-driven, but use-case driven)
+- 🤖 Exploring **AI-assisted systems & planners** (use-case driven)
+- 📱 Building **cross-platform apps** with modern stacks
 - 🎓 Currently joining a **bootcamp** to sharpen:
   - frontend & backend best practices  
   - production-ready workflows  
-  - teamwork & industry standards
+  - team & industry standards
 
 > **Work principle:**  
 > *A good system reduces human error, not depends on human perfection.*
@@ -32,20 +33,42 @@ My focus is on **clean architecture, clear data flow, and systems that prevent p
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-#### 🎨 Frontend
+---
+
+#### 🎨 Frontend (Web)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🧩 Backend & Database
+---
+
+#### 📱 Mobile
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+#### 🧩 Backend & API
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+#### 🗄️ Database & Backend-as-a-Service
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+---
 
 #### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
@@ -56,7 +79,7 @@ Projects that represent **how I think, not just what I code**:
   AI-assisted itinerary planning with structured logic & constraints
 
 - 📄 **PRD – Travel Itinerary Planner**  
-  Product Requirement Document → system implementation mindset
+  Requirement-driven development & system thinking
 
 - 👨‍👩‍👧 **Family Mission Tracker**  
   Goal & mission tracking system with clear rules and flow
@@ -68,9 +91,9 @@ Projects that represent **how I think, not just what I code**:
   Product-style app emphasizing usability & structure
 
 - 📦 **Compacta**  
-  Recent system-focused project (architecture-first approach)
+  Recent system-focused project (architecture-first)
 
-> Bootcamp tasks & experiments are kept as **learning archives**, not portfolio noise.
+> Bootcamp projects & experiments are treated as **learning systems**, not repo spam.
 
 ---
 
