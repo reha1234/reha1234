@@ -108,3 +108,4 @@ Projects that represent **how I think, not just what I code**:
 ---
 
 ⭐ *I don’t just build features — I design systems that make progress sustainable.*
+📬 *Currently open to full-time opportunities as a Fullstack Developer and available for professional collaboration.*
