@@ -97,12 +97,6 @@ Projects that represent **how I think, not just what I code**:
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reha1234&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reha1234&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arehamahmuda)
 
